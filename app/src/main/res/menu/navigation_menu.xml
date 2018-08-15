@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+<item android:id="@+id/aww"
+     android:title="aww"></item>
+    <item android:id="@+id/cats"
+        android:title="cats"></item>
+    <item android:id="@+id/hmmm"
+        android:title="hmmm"></item>
+    <item android:id="@+id/images"
+        android:title="images"></item>
+    <item android:id="@+id/adviceanimals"
+        android:title=""></item>
+        <item android:id="@+id/adviceanimals3"
+            android:title=""></item>
+
+
+</group>
+    <item android:id="@+id/ty"
+        android:title="                   thank you"></item>
+</menu>
